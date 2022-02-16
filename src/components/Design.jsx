@@ -55,7 +55,7 @@ export default function Design() {
         <div className="card mt-4 col-md-8 shadow card-style">
           {Object.keys(formErrors).length === 0 && isSubmit ? (
             <div className="text-center">
-              <h1 className="text-center mt-3 text-primary">Sign in Success</h1>
+              <h1 className="text-center mt-3 text-primary">Sign in Successfull</h1>
             </div>
           ) : (
             <div></div>
