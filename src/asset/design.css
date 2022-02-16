@@ -1,5 +1,4 @@
 .form-bg {
-  /* background: cornsilk; */
   background-color: #1fc8db;
   background-image: linear-gradient(
     140deg,
@@ -7,4 +6,7 @@
     #bc70a4 50%,
     #bfd641 75%
   );
+}
+.card-style {
+  border-radius: 25px;
 }
